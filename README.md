@@ -1,1 +1,1 @@
-| [US vs China Carbon Efficiency (1990–2019)](USvsChinaGDPefficiency/notebook/USvsCHINAgrowthefficiency.ipynb) | Growth & Environmental Efficiency | Pandas, Matplotlib, Seaborn, Time Series Analysis |
+| [US vs China GDP Growth Efficiency (1990–2019)](USvsChinaGDPefficiency/notebook/USvsCHINAgrowthefficiency.ipynb) | Growth & Environmental Efficiency | Pandas, Matplotlib, Seaborn, Time Series Analysis |
